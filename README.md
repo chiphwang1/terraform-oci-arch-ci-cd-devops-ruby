@@ -1,4 +1,4 @@
-# oci-arch-ci-cd-devops
+# oci-arch-ci-cd-devops-ruby
 
 Rapid delivery of software is essential for efficiently running your applications in the cloud. Oracle Cloud Infrastructure (OCI) DevOps services provide a continuous integration and deployment (CI/CD) platform for developers to easily build, test, and deploy software and applications on Oracle Cloud.
 
